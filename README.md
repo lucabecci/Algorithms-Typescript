@@ -1,1 +1,1 @@
-# Algorithms implemented in Typescript
+# Algorithms and DSA implemented in typescript.
